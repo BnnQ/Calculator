@@ -8,7 +8,7 @@ The application supports different screen sizes and landscape orientation. Local
 
 Since at that time I was just starting to program and didn’t really think about the quality of the code, it is at an acceptable level in this project.
 
-# Screenshotes
+# Screenshots
 
 ![Screenshot_2024-02-01-00-34-00-866_com mxtech videoplayer pro](https://github.com/BnnQ/CalculatorAndroid/assets/115489239/8cdc22da-5763-441a-9ab0-84cb2f0fe0fb)
 ![Screenshot_2024-02-01-00-34-05-043_com mxtech videoplayer pro](https://github.com/BnnQ/CalculatorAndroid/assets/115489239/4442bebf-1041-4b92-ad88-4bf22581a956)
